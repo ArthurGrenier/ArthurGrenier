@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArthurGrenier
-- 👀 I’m interested in ardiuno and automation
-- 🌱 I’m currently learning arduino and manager study
-- 💞️ I’m looking to collaborate on nothing for the moment (sorry >x>)
+- 👀 I’m interested in development and vegetable garden :deciduous_tree:
+- 🌱 I’m currently manager study
+- 💞️ I’m looking to collaborate with nobody for the moment (sorry >x>)
 - 📫 How to reach me argnr@proton.me
 
 <!---
